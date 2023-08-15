@@ -1,4 +1,11 @@
+<span style="color:white">
 # text
 
 This is a test
-<span style="color:white">some *white* text</span>.
+some *white* text
+
+
+
+
+
+</span>.
