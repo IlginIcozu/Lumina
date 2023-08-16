@@ -17,19 +17,15 @@ n this project, we created basic shapes using `vertex()` & `curveVertex()` funct
 
    *insert picture 2 here*
    
-3. Adding *stars* before the swirl
-
-   *insert picture 3 here*
-
-4. Second Shader; **Swirl**
+3. Second Shader; **Swirl**
 
    *insert picture 4 here*
 
-5. Last Shader; **Spatialize**
+4. Last Shader; **Spatialize**
 
    *insert picture 5 here*
 
-6. Again adding *stars* on top of everything
+5. Again adding *stars* on top of everything
 
    *insert picture 6 here*
 
