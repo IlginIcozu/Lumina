@@ -60,6 +60,10 @@ The visual structure contains 9 general composition type, each are highly varied
 
 * composition 9
 
+## Last Words
+
+This collection is also a reflection on human exploration and discovery. As our technological reach extends into space, art follows as a parallel journey, exploring both internal and external realms. The collection emphasizes humanity's quest to understand these celestial phenomena, using gravitational forces as a drawing context and diverse optical instruments as a metaphor for our observational tools.
+
 
 
 
