@@ -1,7 +1,7 @@
-## About Lumina
+# About Lumina
 Lumina is an exploration into the vast narratives of the universe, where each celestial formation tells a unique story shaped by cosmic phenomena. This project captures and condenses the essence of these expansive temporal actions into singular, poignant moments for viewers. It vividly portrays gravitational lensing, the spacetime continuum, and the intricate fabric of space, showcasing the mesmerizing interplay of light and space as they are twisted and refracted by gravity.Lumina is not only a reflection of cosmic phenomena but also a metaphor for human exploration and discovery. As technology propels us further into space, this collection serves as an artistic parallel, emphasizing humanity's enduring quest to understand and connect with the cosmos.
 
-## Making of Lumina
+# Making of Lumina
 
 Lumina is a further exploration of using p5.js and WebGL shaders together to generate a striking visual style that maintains a balance between organic and digital elements. We employed a **serial** technique to structure the process.
 
