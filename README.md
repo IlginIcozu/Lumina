@@ -1,21 +1,20 @@
 # Making of Lumina
 
-Lumina is a further exploration of using p5js and webgl shaders together to create striking visuals in a balance of organic-digital. We used a *serial* technique to create our steps.
+Lumina is a further exploration of using p5.js and WebGL shaders together to generate a striking visual style that maintains a balance between organic and digital elements. We employed a serial technique to structure the process.
 
-In this project we created some basic shapes using `vertex()` & `curveVertex()` in p5js. Later this shapes goes in to a **FBM Shader** to create a cloudy texture. 
-This cloudy texture goes into another shader which puts a **swirl** on top of it. For the last process we are using a custom shader to manipulate the canvas to create fractured, bended nursaries. 
+n this project, we created basic shapes using `vertex()` & `curveVertex()` functions in p5.js. Later, these shapes were processed through an FBM (Fractal Brownian Motion) Shader to create a cloudy texture. This cloudy texture was then passed into another shader, which applied a swirl effect to it. For the final process, we used a custom shader to manipulate the canvas, creating fractured and bent entities. 
 
-## Detailed explanation of this *serial* process.
+## Detailed explanation of the *serial* process.
 
-1. Creating shapes using `vertex()` & `curveVertex` in p5js.
+1. Creating shapes using `vertex()` & `curveVertex()` in p5js.
 
    *insert picture 1 here*
 
-2. First shader; **Fbm**
+2. First shader; **FBM**
 
    *insert picture 2 here*
    
-3. Adding *stars* before the swirll
+3. Adding *stars* before the swirl
 
    *insert picture 3 here*
 
@@ -31,9 +30,9 @@ This cloudy texture goes into another shader which puts a **swirl** on top of it
 
    *insert picture 6 here*
 
-## Every *compositions* with their process 
+## Compositions 
 
-The visual structure contains 9 general composition typr, each are highly varied, some examples;
+The visual structure contains 9 general composition type, each are highly varied, some examples;
 
 * composition 1
 
