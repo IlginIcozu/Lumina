@@ -7,7 +7,7 @@ This cloudy texture goes into another shader which puts a **swirl** on top of it
 
 ## Detailed explanation of this *serial* process.
 
-⋅⋅1. Creating shapes using `vertex()` & `curveVertex` in p5js.
+1. Creating shapes using `vertex()` & `curveVertex` in p5js.
 
    *insert picture 1 here*
 
