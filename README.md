@@ -11,23 +11,23 @@ n this project, we created basic shapes using `vertex()` & `curveVertex()` funct
 
 1. Creating shapes using `vertex()` & `curveVertex()` in p5js.
 
-   ![step 1.](assets/1.png) 
+   ![step 1](assets/1.png) 
 
 2. First shader; **FBM**
 
-   *insert picture 2 here*
+   ![step 2](assets/2.png) 
    
 3. Second Shader; **Swirl**
 
-   *insert picture 4 here*
+   ![step 3](assets/3.png) 
 
 4. Last Shader; **Spatialize**
 
-   *insert picture 5 here*
+   ![step 4](assets/4.png) 
 
 5. Again adding *stars* on top of everything
 
-   *insert picture 6 here*
+   ![step 5](assets/5.png) 
 
 ## Compositions 
 
