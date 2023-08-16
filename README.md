@@ -33,6 +33,8 @@ This cloudy texture goes into another shader which puts a **swirl** on top of it
 
 ## Every *compositions* with their process 
 
+The visual structure contains 9 general composition typr, each are highly varied, some examples;
+
 * composition 1
 
 
