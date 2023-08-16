@@ -5,7 +5,7 @@
 In this project we created some basic shapes using `vertex()` & `curveVertex` in p5js. Later this shapes goes in to a **FBM Shader** to create a cloudy texture. 
 This cloudy texture goes into another shader which puts a **swirl** on top of it. For the last process we are using a custom shader to manipulate the canvas to create fractured, bended nursaries. 
 
-## Here is a detailed explanation of this *serial* process.
+## Detailed explanation of this *serial* process.
 
 ⋅⋅1. Creating shapes using `vertex()` & `curveVertex` in p5js.
 
@@ -30,6 +30,37 @@ This cloudy texture goes into another shader which puts a **swirl** on top of it
 6. Again adding *stars* on top of everything
 
    *insert picture 6 here*
+
+## Every *compositions* with their process 
+
+* composition 1
+
+
+* composition 2
+
+
+* composition 3
+
+
+* composition 4
+
+
+* composition 5
+
+
+* composition 6
+
+
+* composition 7
+
+
+* composition 8
+
+
+* composition 9
+
+
+
 
 
    
