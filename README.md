@@ -9,7 +9,7 @@ In this project, we created basic shapes using `vertex()` & `curveVertex()` func
 
 ## Detailed explanation of the **serial** process.
 
-1. Creating shapes using `vertex()` & `curveVertex()` in p5js.
+1. Creating shapes using `vertex()` & `curveVertex()` in p5.js
 
    ![step 1](assets/1_1.jpg) ![step 1](assets/2.jpg)
 
@@ -17,11 +17,11 @@ In this project, we created basic shapes using `vertex()` & `curveVertex()` func
 
    ![step 2](assets/2_1v1.jpg) ![step 1](assets/2_2.jpg)
    
-3. Second Shader; **Swirl**
+3. Second Shader; **Swirl**, giving some movement
 
    ![step 3](assets/3_1.jpg) ![step 1](assets/2_3.jpg)
 
-4. Last Shader; **Spatialize**
+4. Last Shader; **Spatialize**, manipulating the canvas to create a fractured, bent and warped cosmic entities
 
    ![step 4](assets/4_1.jpg) ![step 1](assets/2_4.jpg)
 
