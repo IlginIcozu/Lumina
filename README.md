@@ -91,3 +91,5 @@ Their portfolio includes a diverse range of collections, each with its unique th
 
 DistCollective completed their residency program as the 5th cohort with Vertical Crypto Art in 2023 and actively participates as a mentor in the program.The duo continues their exploration of new frontiers in the digital realm and is constantly seeking innovative ways to engage and share their work with their audience.
 
+For more information about us and our works, you can visit; distcollective.xyz
+
