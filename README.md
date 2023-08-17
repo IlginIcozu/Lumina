@@ -13,7 +13,7 @@ In this project, we created basic shapes using `vertex()` & `curveVertex()` func
 
    ![step 1](assets/1_1.jpg) ![step 1](assets/2.jpg)
 
-2. First shader; **FBM**
+2. First shader; **FBM** and adding **light**
 
    ![step 2](assets/2_1v1.jpg) ![step 1](assets/2_2.jpg)
    
