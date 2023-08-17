@@ -35,39 +35,39 @@ The visual structure contains 9 general composition type, each are highly varied
 
 * composition 1
 
-![comp1](assets/comp1/comp1_1.jpg)![comp1](assets/comp1/comp1_2.jpg)![comp1](assets/comp1/comp1_3.jpg)
+![comp1](assets/comp1/comp1_1.jpg) ![comp1](assets/comp1/comp1_2.jpg) ![comp1](assets/comp1/comp1_3.jpg)
 
 * composition 2
 
-![comp2](assets/comp2/comp2_1.jpg)![comp2](assets/comp2/comp2_2.jpg)![comp2](assets/comp2/comp2_3.jpg)
+![comp2](assets/comp2/comp2_1.jpg) ![comp2](assets/comp2/comp2_2.jpg) ![comp2](assets/comp2/comp2_3.jpg)
 
 * composition 3
 
-![comp3](assets/comp3/comp3_1.jpg)![comp3](assets/comp3/comp3_2.jpg)![comp3](assets/comp3/comp3_3.jpg)
+![comp3](assets/comp3/comp3_1.jpg) ![comp3](assets/comp3/comp3_2.jpg) ![comp3](assets/comp3/comp3_3.jpg)
 
 * composition 4
 
-![comp4](assets/comp4/comp4_1.jpg)![comp3](assets/comp4/comp4_2.jpg)![comp4](assets/comp4/comp4_3.jpg)
+![comp4](assets/comp4/comp4_1.jpg) ![comp3](assets/comp4/comp4_2.jpg) ![comp4](assets/comp4/comp4_3.jpg)
 
 * composition 5
 
-![comp5](assets/comp5/comp5_1.jpg)![comp5](assets/comp5/com5_2.jpg)![comp5](assets/comp5/comp5_3.jpg)
+![comp5](assets/comp5/comp5_1.jpg) ![comp5](assets/comp5/com5_2.jpg) ![comp5](assets/comp5/comp5_3.jpg)
 
 * composition 6
 
-![comp6](assets/comp6/comp6_1.jpg)![comp6](assets/comp6/comp6_2.jpg)![comp6](assets/comp6/comp6_3.jpg)
+![comp6](assets/comp6/comp6_1.jpg) ![comp6](assets/comp6/comp6_2.jpg) ![comp6](assets/comp6/comp6_3.jpg)
 
 * composition 7
 
-![comp7](assets/comp7/comp7_1.jpg)![comp7](assets/comp7/comp7_2.jpg)![comp7](assets/comp7/comp7_3.jpg)
+![comp7](assets/comp7/comp7_1.jpg) ![comp7](assets/comp7/comp7_2.jpg) ![comp7](assets/comp7/comp7_3.jpg)
 
 * composition 8
 
-![comp8](assets/comp8/comp8_1.jpg)![comp8](assets/comp8/comp8_2.jpg)![comp8](assets/comp8/comp8_3.jpg)
+![comp8](assets/comp8/comp8_1.jpg) ![comp8](assets/comp8/comp8_2.jpg) ![comp8](assets/comp8/comp8_3.jpg)
 
 * composition 9
 
-![comp9](assets/comp9/comp9_1.jpg)![comp9](assets/comp9/comp9_2.jpg)![comp9](assets/comp9/comp9_3.jpg)
+![comp9](assets/comp9/comp9_1.jpg) ![comp9](assets/comp9/comp9_2.jpg) ![comp9](assets/comp9/comp9_3.jpg)
 
 
    
