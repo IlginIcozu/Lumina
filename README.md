@@ -5,7 +5,7 @@ Lumina is an exploration into the vast narratives of the universe, where each ce
 
 Lumina is a further exploration of using p5.js and WebGL shaders together to generate a striking visual style that maintains a balance between organic and digital elements. We employed a **serial** technique to structure the process.
 
-n this project, we created basic shapes using `vertex()` & `curveVertex()` functions in p5.js. Later, these shapes were processed through an FBM (Fractal Brownian Motion) shader to create a cloudy texture. This cloudy texture was then passed into another shader, which applied a swirl effect to it. For the final process, we used a custom shader to manipulate the canvas, creating fractured and bent entities. 
+In this project, we created basic shapes using `vertex()` & `curveVertex()` functions in p5.js. Later, these shapes were processed through an FBM (Fractal Brownian Motion) shader to create a cloudy texture. This cloudy texture was then passed into another shader, which applied a swirl effect to it. For the final process, we used a custom shader to manipulate the canvas, creating fractured and bent entities. 
 
 ## Detailed explanation of the **serial** process.
 
