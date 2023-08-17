@@ -11,7 +11,7 @@ n this project, we created basic shapes using `vertex()` & `curveVertex()` funct
 
 1. Creating shapes using `vertex()` & `curveVertex()` in p5js.
 
-   ![step 1](assets/1_1.jpg) ![step 1](assets/2_1.jpg)
+   ![step 1](assets/1_1.jpg) ![step 1](assets/2.jpg)
 
 2. First shader; **FBM**
 
