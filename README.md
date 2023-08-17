@@ -74,7 +74,7 @@ Each composition is highly varied, some examples;
 
 # About Coloring
 
-The color algorithm is divided into two parts. The first part selects two hues, while the second part adds additional hues based on a specific hash value. If the first part of the algorithm selects two identical hues, the second part will always introduce additional hues to ensure variety.
+The color algorithm is divided into two parts. The first part selects two hues, while the second part adds additional hues based on a specific hash value. If the first part of the algorithm selects two identical hues, the second part will always introduce additional hues to ensure variety. There are 9 different hues in total
 
 These selected hues are then applied to the basic shapes created in the project. The FBM shader is employed to add light to the intersecting areas of these basic shapes.
 
