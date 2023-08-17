@@ -7,7 +7,7 @@ Lumina is a further exploration of using p5.js and WebGL shaders together to gen
 
 In this project, we created basic shapes using `vertex()` & `curveVertex()` functions in p5.js. Later, these shapes were processed through an FBM (Fractal Brownian Motion) shader to create a cloudy texture. This cloudy texture was then passed into another shader, which applied a swirl effect to it. For the final process, we used a custom shader to manipulate the canvas, creating fractured and bent entities. 
 
-## Detailed explanation of the **serial** process.
+## Detailed explanation of the **serial** process
 
 1. Creating shapes using `vertex()` & `curveVertex()` in p5.js
 
@@ -25,7 +25,7 @@ In this project, we created basic shapes using `vertex()` & `curveVertex()` func
 
    ![step 4](assets/4_1.jpg) ![step 1](assets/2_4.jpg)
 
-5. Again adding *stars* on top of everything
+5. For a final touch, adding **stars**
 
    ![step 5](assets/5_1.jpg) ![step 1](assets/2_5.jpg)
 
