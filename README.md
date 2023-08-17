@@ -51,7 +51,7 @@ The visual structure contains 9 general composition type, each are highly varied
 
 * composition 5
 
-![comp5](assets/comp5/comp5_1.jpg)![comp5](assets/comp5/comp5_2.jpg)![comp5](assets/comp5/comp5_3.jpg)
+![comp5](assets/comp5/comp5_1.jpg)![comp5](assets/comp5/com5_2.jpg)![comp5](assets/comp5/comp5_3.jpg)
 
 * composition 6
 
