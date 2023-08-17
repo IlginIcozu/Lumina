@@ -31,7 +31,9 @@ In this project, we created basic shapes using `vertex()` & `curveVertex()` func
 
 ## Compositions 
 
-The visual structure contains 9 general composition type, each are highly varied, some examples;
+The visual structure contains 9 general composition type depicting the phenomena of gravitational pull & lensing, fracting and bending of time and space and how gravity warps light.
+
+Each composition is highly varied, some examples;
 
 * Composition 1
 
