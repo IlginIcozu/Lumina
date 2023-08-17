@@ -15,7 +15,7 @@ n this project, we created basic shapes using `vertex()` & `curveVertex()` funct
 
 2. First shader; **FBM**
 
-   ![step 2](assets/2_1.jpg) ![step 1](assets/2_2.jpg)
+   ![step 2](assets/2_1v1.jpg) ![step 1](assets/2_2.jpg)
    
 3. Second Shader; **Swirl**
 
