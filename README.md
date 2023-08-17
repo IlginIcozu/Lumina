@@ -72,5 +72,13 @@ Each composition is highly varied, some examples;
 ![comp9](assets/comp9/comp9_1.jpg) ![comp9](assets/comp9/comp9_2.jpg) ![comp9](assets/comp9/comp9_3.jpg)
 
 
-   
+# About Coloring
+
+The color algorithm is divided into two parts. The first part selects two hues, while the second part adds additional hues based on a specific hash value. If the first part of the algorithm selects two identical hues, the second part will always introduce additional hues to ensure variety.
+
+These selected hues are then applied to the basic shapes created in the project. The FBM shader is employed to add light to the intersecting areas of these basic shapes.
+
+In the fourth step, the final shader amplifies the brightness and saturation of the colors based on a random hash value. This process brings out a rich variety in the coloring structure of the artwork.
+
+
 
