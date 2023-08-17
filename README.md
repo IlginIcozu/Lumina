@@ -76,7 +76,7 @@ Each composition is highly varied, some examples;
 
 The color algorithm is divided into two parts. The first part selects two hues, while the second part adds additional hues based on a specific hash value. If the first part of the algorithm selects two identical hues, the second part will always introduce additional hues to ensure variety. There are 9 different hues in total
 
-These selected hues are then applied to the basic shapes created in the project. The FBM shader is employed to add light to the intersecting areas of these basic shapes.
+These selected hues are then applied to the basic shapes created in the project. The FBM shader adds light to the intersecting areas of these basic shapes.
 
 In the fourth step, the final shader amplifies the brightness and saturation of the colors based on a random hash value. This process brings out a rich variety in the coloring structure of the artwork.
 
